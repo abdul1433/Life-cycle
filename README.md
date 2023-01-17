@@ -85,6 +85,7 @@ Once the users are registered you will need to activate them to login as a user 
  Set up the credintials and Save Changes
  
  
+ 
  <p>
 <img src="https://i.imgur.com/Xi9f0hC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -97,7 +98,7 @@ Once the users are registered you will need to activate them to login as a user 
 </p>
 <p>
 
-Repeat the same process for Ken User
+Repeat the same process for another User
 
 
 Once you are done with regitration part open a new tab on the browser and go to "http://localhost/osTicket/open.php"
@@ -125,7 +126,7 @@ Descibe the issue in details and create the ticket
 <p>
 
 
-Next Sign out as ken and sign in as karen pretenting to be the another user
+Next Sign out as ken and sign in as karen pretending to be the another user
 
 Select the help topic from the drop down menu and select "Business Critical Outage"
 
@@ -136,6 +137,67 @@ Name the issue summary and describe the issue in details and create the ticket
 <img src="https://i.imgur.com/D4RXo2u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
+
+
+
+<h3>Assignment and Communication</h3>
+
+Log in to osTicket portal as admin
+
+Once logged in, you will see the view of tickets in a que
+
+Assign the tickets to a particular agent and update priority levels on the ticket
+
+In the body of the ticket, type in the details to update the status of the issue
+
+
+<p>
+<img src="https://i.imgur.com/Es8qrmI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+
+<p>
+<img src="https://i.imgur.com/38KLYHp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+
+<p>
+<img src="https://i.imgur.com/sVtEkCB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+
+<h3>Working the Issue</h3>
+
+
+Log in to osTicket portal as Jane Doe (Agent)
+
+Open the ticket you have to work on
+
+Go to Post Reply Section and then click on Post Internal Note tab
+
+Enter a summary of the note and describe the details in the body of the ticket
+
+Click on Post Note
+
+
+<p>
+<img src="https://i.imgur.com/OFdz7lI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+
+<p>
+<img src="https://i.imgur.com/qXkvQBM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+
+
+
+
 
 
 
