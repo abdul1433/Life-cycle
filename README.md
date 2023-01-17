@@ -210,8 +210,7 @@ Click on Post Note
 <p>
  
  
- The ticket closed now and can be viewed in the Tickets-->Closed
-
+ The ticket closed now and can be viewed in the Closed Tickets
 
 
 
