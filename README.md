@@ -181,7 +181,6 @@ Go to Post Reply Section and then click on Post Internal Note tab
 
 Enter a summary of the note and describe the details in the body of the ticket
 
-Click on Post Note
 
 
 <p>
@@ -194,6 +193,25 @@ Click on Post Note
 <img src="https://i.imgur.com/qXkvQBM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
+
+<h3>Resolution</h3>
+
+
+Finally our last step is to change the status of the ticket
+
+From the drop down menu of the ticket staus select "Resolved"
+
+Click on Post Note
+
+<p>
+<img src="https://i.imgur.com/Gj4LR9Y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ 
+ 
+ The ticket closed now and can be viewed in the Tickets-->Closed
+
 
 
 
